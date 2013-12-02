@@ -14,10 +14,10 @@ public class Weather {
 
 	public Weather(int choice) throws FileNotFoundException, IOException, ParseException{
 		if(choice == 1){
-			Weather.parseData("/Users/nakulrajan/Documents/workspace/eclipse/WeatherVane/src/sample-json.txt");
+			Weather.parseData("/Users/nakulrajan/Documents/workspace/eclipse/WeatherVane/src/coldfrontData.txt");
 		}
 		else{
-			Weather.parseData("/Users/nakulrajan/Documents/workspace/eclipse/WeatherVane/src/sample-json.txt");
+			Weather.parseData("/Users/nakulrajan/Documents/workspace/eclipse/WeatherVane/src/coldfrontData.txt");
 		}
 
 	}
