@@ -1,0 +1,28 @@
+[
+	{"sqid" : 1,"temp" : 65,"humidity" : "54%","direction" : "E","speed" : 15},
+	{"sqid" : 2,"temp" : 66,"humidity" : "55%","direction" : "E","speed" : 15},
+	{"sqid" : 3,"temp" : 73,"humidity" : "69%","direction" : "SW","speed" : 12},
+	{"sqid" : 4,"temp" : 72,"humidity" : "71%","direction" : "SW","speed" : 10},
+	{"sqid" : 5,"temp" : 84,"humidity" : "73%","direction" : "W","speed" : 10},
+	{"sqid" : 6,"temp" : 66,"humidity" : "54%","direction" : "E","speed" : 15},
+	{"sqid" : 7,"temp" : 67,"humidity" : "52%","direction" : "E","speed" : 15},
+	{"sqid" : 8,"temp" : 76,"humidity" : "73%","direction" : "SW","speed" : 12},
+	{"sqid" : 9,"temp" : 74,"humidity" : "68%","direction" : "SW","speed" : 12},
+	{"sqid" : 10,"temp" : 86,"humidity" : "74%","direction" : "W","speed" : 10},
+	{"sqid" : 11,"temp" : 67,"humidity" : "53%","direction" : "E","speed" : 15},
+	{"sqid" : 12,"temp" : 69,"humidity" : "56%","direction" : "E","speed" : 15},
+	{"sqid" : 13,"temp" : 81,"humidity" : "64%","direction" : "S","speed" : 12},
+	{"sqid" : 14,"temp" : 79,"humidity" : "65%","direction" : "SW","speed" : 12},
+	{"sqid" : 15,"temp" : 88,"humidity" : "76%","direction" : "W","speed" : 10},
+	{"sqid" : 16,"temp" : 68,"humidity" : "49%","direction" : "E","speed" : 15},
+	{"sqid" : 17,"temp" : 64,"humidity" : "48%","direction" : "E","speed" : 15},
+	{"sqid" : 18,"temp" : 79,"humidity" : "72%","direction" : "S","speed" : 12},
+	{"sqid" : 19,"temp" : 80,"humidity" : "62%","direction" : "SW","speed" : 12},
+	{"sqid" : 20,"temp" : 85,"humidity" : "70%","direction" : "W","speed" : 10},
+	{"sqid" : 21,"temp" : 69,"humidity" : "52%","direction" : "E","speed" : 15},
+	{"sqid" : 22,"temp" : 68,"humidity" : "50%","direction" : "E","speed" : 15},
+	{"sqid" : 23,"temp" : 76,"humidity" : "64%","direction" : "SW","speed" : 12},
+	{"sqid" : 24,"temp" : 78,"humidity" : "73%","direction" : "S","speed" : 10},
+	{"sqid" : 25,"temp" : 84,"humidity" : "72%","direction" : "W","speed" : 10}
+	
+]
